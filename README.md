@@ -1,5 +1,7 @@
 # GymManagementSystem
 
+**There are two views: Admin and User**
+
 ADMIN
 
 ![image18](https://github.com/PawanKamisetty/GymManagementSystem/assets/119607492/e5b07b70-39d9-4d6a-8625-0208ad56734c)
